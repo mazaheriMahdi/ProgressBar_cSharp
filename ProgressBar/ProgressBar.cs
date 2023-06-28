@@ -1,4 +1,6 @@
-﻿namespace ProgressBar;
+﻿using System;
+
+namespace ProgressBar;
 
 public enum ProgressBarStyle
 {
