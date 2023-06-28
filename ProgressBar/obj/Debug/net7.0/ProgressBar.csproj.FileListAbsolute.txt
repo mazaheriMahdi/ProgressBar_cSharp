@@ -1,0 +1,12 @@
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/bin/Debug/net7.0/ProgressBar.deps.json
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/bin/Debug/net7.0/ProgressBar.dll
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/bin/Debug/net7.0/ProgressBar.pdb
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ProgressBar.csproj.AssemblyReference.cache
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ProgressBar.AssemblyInfoInputs.cache
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ProgressBar.AssemblyInfo.cs
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ProgressBar.csproj.CoreCompileInputs.cache
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ProgressBar.dll
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/refint/ProgressBar.dll
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ProgressBar.pdb
+/Users/mahdimazaheri/Programming/SearchEngine/ProgressBar/ProgressBar/obj/Debug/net7.0/ref/ProgressBar.dll
