@@ -29,6 +29,11 @@ jobs:
         with:
           name: nuget-package
           path: ./artifacts/*.nupkg
+      - name: Get short SHA
+        id: get-short-sha
+        run: |
+          id=$(echo ${{github.sha}} | cut -c 1-7)
+          echo "::set-output name=id::$id"
 
       - name: Create release
         id: create_release
@@ -36,10 +41,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
         with:
-          tag_name: ${{ github.sha.substring(0, 7) }}
-          release_name: Release ${{ github.sha.substring(0, 7) }}
+          tag_name: ${{ steps.get-short-sha.outputs.id }}
+          release_name: Release ${{ steps.get-short-sha.outputs.id  }}
           body: |
-            Release created automatically from commit ${{ github.sha }}.
+            Release created automatically from commit ${{ steps.get-short-sha.outputs.id  }}.
           draft: false
           prerelease: false
 
